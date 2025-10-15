@@ -2,12 +2,11 @@
     <a href="https://github.com/paulo-coutinho/android-16kb-validator" target="_blank" rel="noopener noreferrer">
         <img width="250" src="extras/images/logo.png" alt="Android 16KB Validator Logo">
     </a>
-    <br>
-    Android 16KB Page Size Validator
-    <br>
 </p>
 
 ## About
+
+Android 16KB Page Size Validator.
 
 A Python tool to validate 16KB page size alignment compliance for Android native libraries (.so files) inside APK, AAB packages, or standalone .so files.
 
