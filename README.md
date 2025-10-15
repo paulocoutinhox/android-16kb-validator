@@ -321,4 +321,4 @@ If you see alignment values that aren't powers of 2 (like 40912, 1350696):
 
 [MIT](http://opensource.org/licenses/MIT)
 
-Copyright (c) 2024-2025, Paulo Coutinho
+Copyright (c) 2025, Paulo Coutinho
